@@ -1,5 +1,5 @@
 # curso-django-w1
-# Este es un curso no. 1 de django para principiantes (crear sitios web con python django) por William S. Vincent
+# Este es un curso #1 de django para principiantes (crear sitios web con python django) por William S. Vincent
 
 # Chapter 1: Initial Set Up 
 * The Command Line 
